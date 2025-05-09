@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashanksola" alt="shashanksola" /></a> </p>
 
-- 🔭 I’m currently working on **Bird Species Classification**
+- 🔭 I’m currently working on **SilentLaunch**
 
 - 👯 I’m looking to collaborate on **Cool projects!**
 
